@@ -17,8 +17,8 @@ This project analyzes 9,000+ transactions from a retail "Superstore" to identify
 - **Shipping Efficiency:** Calculated an average shipping lag of ~4 days across all regions.
 
 ## 📈 Visualizations
-![Profit by Sub-Category](link_to_your_uploaded_image_here.png)
-![Monthly Sales Trend](link_to_your_uploaded_line_chart_here.png)
+![Profit by Sub-Category]([link_to_your_uploaded_image_here.png](https://github.com/himanshukum8881/E-commerce-Sales-Analysis-Python/blob/main/Impact%20of%20Discounts%20on%20Profitability.png))
+![Monthly Sales Trend]([link_to_your_uploaded_line_chart_here.png](https://github.com/himanshukum8881/E-commerce-Sales-Analysis-Python/blob/main/Monthly%20Sales%20Trend.png))
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/your-username/repo-name.git`
