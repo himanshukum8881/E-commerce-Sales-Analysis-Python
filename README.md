@@ -21,6 +21,6 @@ This project analyzes 9,000+ transactions from a retail "Superstore" to identify
 ![Monthly Sales Trend]([link_to_your_uploaded_line_chart_here.png](https://github.com/himanshukum8881/E-commerce-Sales-Analysis-Python/blob/main/Monthly%20Sales%20Trend.png))
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/your-username/repo-name.git`
+1. Clone the repo: `[git clone https://github.com/your-username/repo-name.gi](https://github.com/himanshukum8881/E-commerce-Sales-Analysis-Python/blob/main/E-commerce-Sales-Analysis.ipynb)t`
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Run the notebook: `Google Colab`
